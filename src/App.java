@@ -98,6 +98,7 @@ public class App {
         quantidadeTurma++;
     }
 
+    
     private static void cadastrarMatricula() {
         Matricula matricula = new Matricula();
         System.out.println("Digite o ra da matrícula: ");
